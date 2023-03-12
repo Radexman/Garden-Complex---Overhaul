@@ -23,12 +23,14 @@ Projekt, którego głównym założeniem jest odświeżenie wyglądu wszystkich 
 -   Zwiększono czytelność stopki poprzez padding i kontrast.
 -   Poprawiono nagłówki w menu.
 -   Mobilne menu boczne, responsywna typografia oraz zmiana kolorów.
+-   Dodatno efektu _transition_ do przycisków.
+-   Poprawa fontów i typografii sekcji _Modele_.
+-   Poprawa czytelności formularza wycen.
 
 ## **Do zrealizowania**
 
--   Dodatnie efektu _transition_ do przycisków.
--   Zmiana koloru i responsywnej typografii i sekcjach _Montaże_ oraz _Kontakt_.
--   Usprawnienie czytelności _Formularza Wyceny Zadaszeń_ oraz _Formularza Kontaktowego_.
+-   Zmiana koloru i responsywnej typografii i sekcji _Kontakt_.
+-   Usprawnienie czytelności _Formularza Kontaktowego_.
 -   Optymalizacja zdjęć w sekcji _Realizacje_
 
 ## **Problemy**
