@@ -2,7 +2,7 @@
 
 Projekt, którego głównym założeniem jest odświeżenie wyglądu wszystkich podstron witryny Garden Complex. Szablon WordPress nakłada mocny limit na możliwość manipulowania zawartością oraz widgetami. Ilość znaczników HTML wygenerowanych przez szablon Ample ogranicza zmianę layoutu przy pomocy takich narzędzi jak Grid czy Flexbox.
 
-## **Zrealizowane operacje na dzień 10.03.2023**
+## **Zrealizowane operacje na dzień 16.03.2023**
 
 -   Wyśdorkowanie logotypu razem z nagłówkiem h1.
 -   Poprawiono zwijaną listę w sekcji _Asortyment_ w głównym menu nawigacji.
@@ -26,12 +26,17 @@ Projekt, którego głównym założeniem jest odświeżenie wyglądu wszystkich 
 -   Dodatno efektu _transition_ do przycisków.
 -   Poprawa fontów i typografii sekcji _Modele_.
 -   Poprawa czytelności formularza wycen.
+-   Poprawa responsywności przycisków do formularza wycen w sekcji 1.
+-   Poprawa responsywności przycisków do formularza wycen w sekcji 2.
+-   Uprzątnięcie nadmiernych tagów opisujących nieuporządkowaną listę.
+-   Zadeklarowanie pomocniczych klas styli.
+-   Rozwiązanie problemu ostylowania elementu span w sekcji _Asortyment_.
 
 ## **Do zrealizowania**
 
 -   Zmiana koloru i responsywnej typografii i sekcji _Kontakt_.
 -   Usprawnienie czytelności _Formularza Kontaktowego_.
--   Optymalizacja zdjęć w sekcji _Realizacje_
+-   Optymalizacja zdjęć w sekcji _Realizacje_.
 
 ## **Problemy**
 
