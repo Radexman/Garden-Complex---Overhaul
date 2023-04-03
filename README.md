@@ -5,6 +5,9 @@
 Brak możliwości podejrzenia kodu CSS. Nie jestem właścicielem tej strony.
 Dokumentacja została prowadzona w języku polskim dostosowywując się do klienta.
 
+Link do strony:
+https://gardencomplex.pl/
+
 ## **Garden Complex Dokumentacja**
 
 Projekt, którego głównym założeniem jest odświeżenie wyglądu wszystkich podstron witryny Garden Complex. Szablon WordPress nakłada mocny limit na możliwość manipulowania zawartością oraz widgetami. Ilość znaczników HTML wygenerowanych przez szablon Ample ogranicza zmianę layoutu przy pomocy takich narzędzi jak Grid czy Flexbox.
