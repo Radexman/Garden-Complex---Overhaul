@@ -32,12 +32,6 @@ Projekt, którego głównym założeniem jest odświeżenie wyglądu wszystkich 
 -   Zadeklarowanie pomocniczych klas styli.
 -   Rozwiązanie problemu ostylowania elementu span w sekcji _Asortyment_.
 
-## **Do zrealizowania**
-
--   Zmiana koloru i responsywnej typografii i sekcji _Kontakt_.
--   Usprawnienie czytelności _Formularza Kontaktowego_.
--   Optymalizacja zdjęć w sekcji _Realizacje_.
-
 ## **Problemy**
 
 -   Ograniczenia wynikające z szablonu i edytora CSS od WordPress.
